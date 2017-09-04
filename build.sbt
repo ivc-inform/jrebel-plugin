@@ -3,7 +3,7 @@ organization := "com.simplesys"
 name := "jrebel-plugin"
 
 //version := "0.10.0-SNAPSHOT"
-version := "0.10.1"
+version := "0.10.2"
 
 sbtPlugin := true
 
